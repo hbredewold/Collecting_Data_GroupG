@@ -33,9 +33,6 @@ This repository focuses on the study of the incel community, through the of ‘M
 | Sentiment_Score  | The NLTK sentiment score the post got    |
 | Post_Length  | The aproximate amount of words in the post |
 
-
-Date 	Title 	Tags 	Views 	Replies 	Link 	Sentiment_Score 	Post_Length
-
 ### Authors:
 
 - Eleni Paipeti

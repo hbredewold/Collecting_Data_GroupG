@@ -2,7 +2,7 @@
 
 **WARNING:**
 
-`This notebook deals with data and topics that can be seen as sensitive. We have taken measures to filter out offensive words and slurs, but the topics analyzed are still of a sensitive nature. Moreover, file trigger_words.py contains offensive words excluded from our basic analysis. Please proceed with this in mind.`
+`This notebook deals with data and topics that can be seen as sensitive. We have taken measures to filter out offensive words and slurs, but the topics analyzed are still of a sensitive nature. Moreover, the file trigger_words.py contains offensive words excluded from our basic analysis. Please proceed with this in mind.`
 
 ### Description:
 

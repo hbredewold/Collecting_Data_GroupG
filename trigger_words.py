@@ -1,1 +1,0 @@
-trigger_word_list = ["nigger", "faggot", "whore", "kike", "whore", "cracker", "cunt", "dink", "kyke", "negro", "slut", "rapist"]

@@ -8,6 +8,13 @@ This repository focuses on the study of the incel community, through the of ‘M
 
 - Data Management Plan for this project.
 - Jupyter Notebook explaining the tools and methods used during this project and operations on the data along with its visualization.
+  - Introduction and Backstory
+  - Our Mission
+  - Tutorial
+    - Step 1: Collecting data
+    - Step 2: Cleaning data
+    - Step 3: Analyzing data
+  - Active Learning Exercises
 - CSV file with data scraped from [Incel.is](http://Incel.is) forum
 - Python file containing triggering words founded during data-collecting process.
 

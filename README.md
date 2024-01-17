@@ -19,8 +19,21 @@ This repository focuses on the study of the incel community, through the of ‘M
     - Step 2: Cleaning data
     - Step 3: Analyzing data
   - Active Learning Exercises
-- CSV file with data scraped from [Incel.is](http://Incel.is) forum
 - Python file containing triggering words found during data-collecting process.
+- CSV file with data scraped from [Incel.is](http://Incel.is) forum
+| Variable      | Description                                  |
+| ------------- | -------------------------------------------- |
+| Date  | The date the post originally was posted   |
+| Title    | The title of the post   |
+| Tags | The Tag the post was given by the moderators or the posters themselves (There are pre-set tags a poster can choose from)   |
+| Views      |The amount of views the post has gotten over time |
+| Replies    | The amount of replies the post has gotten over time  |
+| Link  | The link to the post    |
+| Sentiment_Score  | The NLTK sentiment score the post got    |
+| Post_Length  | The aproximate amount of words in the post |
+
+
+Date 	Title 	Tags 	Views 	Replies 	Link 	Sentiment_Score 	Post_Length
 
 ### Authors:
 

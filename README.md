@@ -1,5 +1,3 @@
-# xxx
-
 # Uncovering Incels
 
 ### Description:

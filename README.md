@@ -20,7 +20,7 @@ This repository focuses on the study of the incel community, through the of ‘M
     - Step 3: Analyzing data
   - Active Learning Exercises
 - CSV file with data scraped from [Incel.is](http://Incel.is) forum
-- Python file containing triggering words founded during data-collecting process.
+- Python file containing triggering words found during data-collecting process.
 
 ### Authors:
 

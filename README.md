@@ -21,6 +21,7 @@ This repository focuses on the study of the incel community, through the of ‘M
   - Active Learning Exercises
 - Python file containing triggering words found during data-collecting process.
 - CSV file with data scraped from [Incel.is](http://Incel.is) forum
+
 | Variable      | Description                                  |
 | ------------- | -------------------------------------------- |
 | Date  | The date the post originally was posted   |
